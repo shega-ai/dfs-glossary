@@ -1,6 +1,3 @@
-# Source copy decks (kept out of the public repo by decision)
-docs/
-
 # Python
 __pycache__/
 *.py[cod]

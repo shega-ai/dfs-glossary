@@ -16,6 +16,8 @@ community.
 | **License** | [CC BY 4.0](LICENSE) |
 | **Version** | 1.0 |
 
+**Also available on Hugging Face:** [`shega/dfs-glossary`](https://huggingface.co/datasets/shega/dfs-glossary) — load with `load_dataset("shega/dfs-glossary", "am")`.
+
 ## Data
 
 | File | Description |
@@ -57,18 +59,6 @@ strict fidelity policy:
   normalisation is applied to the verified term, definition, or example text.
 - **The two languages are cross-linked** on the English term, which lets the
   Amharic and Afaan Oromoo files be joined.
-
-## Reproducing the data
-
-The datasets are generated from the source copy decks in [`docs/`](docs/):
-
-```bash
-pip install python-docx
-python scripts/convert.py
-```
-
-This writes the four files under [`data/`](data/) and validates counts
-(87 / 86), unique IDs, required fields, and UTF-8 round-tripping.
 
 ## Provenance
 
