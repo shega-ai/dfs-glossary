@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "DFS Glossary — Amharic & Afaan Oromoo"
+abstract: >-
+  Expert-verified glossaries of Digital Financial Services (DFS) terminology in
+  Amharic and Afaan Oromoo, published as structured, openly-licensed datasets.
+type: dataset
+version: "1.0"
+license: CC-BY-4.0
+authors:
+  - name: "Shega"
+  - name: "AKOFADA"
+keywords:
+  - digital financial services
+  - DFS
+  - glossary
+  - terminology
+  - Amharic
+  - Afaan Oromoo
+  - Ethiopia
+  - low-resource languages
+  - financial inclusion
+# Funding: Gates Foundation (AKOFADA project)
+# A Zenodo DOI will be added on first release:
+# doi: 10.5281/zenodo.XXXXXXX

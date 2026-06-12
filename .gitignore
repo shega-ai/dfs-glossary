@@ -1,0 +1,19 @@
+# Source copy decks (kept out of the public repo by decision)
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch / temp dumps
+_*.txt
+*.tmp
