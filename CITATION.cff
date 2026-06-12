@@ -7,6 +7,9 @@ abstract: >-
 type: dataset
 version: "1.0"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.20666618
+repository-code: "https://github.com/shega-ai/dfs-glossary"
+url: "https://huggingface.co/datasets/ShegaIntelligence/dfs-glossary"
 authors:
   - name: "Shega"
   - name: "AKOFADA"
@@ -21,5 +24,3 @@ keywords:
   - low-resource languages
   - financial inclusion
 # Funding: Gates Foundation (AKOFADA project)
-# A Zenodo DOI will be added on first release:
-# doi: 10.5281/zenodo.XXXXXXX

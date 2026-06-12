@@ -14,9 +14,10 @@ community.
 | **Entries** | 87 Amharic + 86 Afaan Oromoo = **173** |
 | **Format** | JSONL + CSV (UTF-8) |
 | **License** | [CC BY 4.0](LICENSE) |
+| **DOI** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20666618.svg)](https://doi.org/10.5281/zenodo.20666618) |
 | **Version** | 1.0 |
 
-**Also available on Hugging Face:** [`shega/dfs-glossary`](https://huggingface.co/datasets/shega/dfs-glossary) — load with `load_dataset("shega/dfs-glossary", "am")`.
+**Also available on Hugging Face:** [`ShegaIntelligence/dfs-glossary`](https://huggingface.co/datasets/ShegaIntelligence/dfs-glossary) — load with `load_dataset("ShegaIntelligence/dfs-glossary", "am")`.
 
 ## Data
 
@@ -68,8 +69,12 @@ strict fidelity policy:
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff) — GitHub renders a **"Cite this repository"**
-button from it. (A Zenodo DOI will be added here on first release.)
+If you use this dataset, please cite it via its DOI:
+
+> Shega and AKOFADA (2026). *DFS Glossary — Amharic & Afaan Oromoo* (Version 1.0)
+> [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20666618
+
+GitHub also renders a **"Cite this repository"** button from [`CITATION.cff`](CITATION.cff).
 
 ## Contributing / corrections
 
